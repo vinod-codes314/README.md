@@ -22,7 +22,7 @@ I am a dedicated developer with a passion for building scalable full-stack appli
 | **Backend** | Node.js, Express, REST APIs |
 | **Database** | MySQL, MongoDB |
 | **AI & DS** | NumPy, Pandas, Data Visualization, Machine Learning |
-| **Tools** | Git, GitHub, VS Code, Postman.
+| **Tools** | Git, GitHub, VS Code, Postman
 |
 
 ---
